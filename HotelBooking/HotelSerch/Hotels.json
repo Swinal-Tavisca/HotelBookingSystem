@@ -1,0 +1,66 @@
+[
+{
+
+"hotelid": 1,
+"name": "Novotel",
+"rating":5,
+"pincode":440004,
+"address": "Weikfield IT City Infopark Survey No 30/3, Ramwadi, Viman Nagar, Pune, Maharashtra 411014",
+"HotelDescription":"This polished hotel is 1.4 km from Aga Khan Palace and 6 km from Pune Airport.Featuring Wi-Fi and flat-screen TVs, the upscale rooms have minibars, and tea and coffeemakers, along with safes, sofabeds and desks; some have glass-enclosed bathrooms. Upgraded rooms provide free airport shuttle service, plus access to a lounge offering complimentary breakfast and evening cocktails. Suites add separate living rooms. Room service is 24/7.",
+"HotelContactNo":1587,
+"Amenities":"Free Wi-Fi , Breakfast , Swimming Pool , Gym , Bar , Spa ,  Laundry service",
+"HotelImageURL":"https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=image1"
+},
+ 
+{
+ 
+"hotelid": 2,
+"name": "Hayaat",
+"rating":5,
+"pincode":440004,
+"address": "Weikfield IT City Infopark Survey No 30/3, Ramwadi, Viman Nagar, Pune, Maharashtra 411014",
+"HotelDescription":"This polished hotel is 1.4 km from Aga Khan Palace and 6 km from Pune Airport.Featuring Wi-Fi and flat-screen TVs, the upscale rooms have minibars, and tea and coffeemakers, along with safes, sofabeds and desks; some have glass-enclosed bathrooms. Upgraded rooms provide free airport shuttle service, plus access to a lounge offering complimentary breakfast and evening cocktails. Suites add separate living rooms. Room service is 24/7.",
+"HotelContactNo":987651,
+"Amenities":"Free Wi-Fi , Breakfast , Swimming Pool , Gym , Bar , Spa ,  Laundry service",
+"HotelImageURL":"https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=image1"
+
+},
+ 
+{
+ 
+"hotelid": 3,
+"name": "Fidalgo",
+"rating":5,
+"pincode":440004,
+"address": " No. 100-101, Viman Nagar, Sakore Nagar Rd, Sakore Nagar, Pune, Maharashtra 411014",
+"HotelDescription":"This informal hotel surrounded by business parks is 2 km from both Pune International Airport and the 19th-century Aga Khan Palace, where Gandhi was imprisoned. Understated, warmly decorated rooms come with free Wi-Fi, flat-screen TVs and minibars, plus tea and coffeemaking facilities. Suites add living rooms. Room service is available 24/7.",
+"HotelContactNo":98741,
+"Amenities":"Free Wi-Fi , Breakfast , Swimming Pool , Airport shuttle ,  Smoke-free",
+"HotelImageURL":"https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=image1"
+},
+{
+ 
+"hotelid": 4,
+"name": "Amber Regency",
+"rating":5,
+"pincode":440004,
+"address": "Tanda Chowk, Opposite KDM Hospital, Hoshiarpur, Punjab 146001",
+"HotelDescription":"Along the NH3 and surrounded by a green lawn, this unassuming hotel is 2 km from the Keshav Rai Temple, 7 km from the Bajwara Fort and 5 km from Hoshiarpur train station. Featuring dark wood floors and furnishings, the down-to-earth rooms come with flat-screen TVs",
+"HotelContactNo":987613,
+"Amenities":"Free Wi-Fi , Breakfast , Swimming Pool , Gym , Bar , Spa , Child friendly ,  Pet-friendly",
+"HotelImageURL":"https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=image1"
+},
+{
+ 
+"hotelid": 5,
+"name": "Divine Destination",
+"rating":5,
+"pincode":440004,
+"address": "Sr. No. 134/4/2/1; Tulja Bhavani Nagar; Beside Chandan Marble; Near Yadav Petrol Pump, Nagar Rd, Kharadi, Pune, Maharashtra 411014",
+"HotelDescription":"superb rooms, neat & clean, fast room service, best location near Kharadi bypass Chandan Nagar,",
+"HotelContactNo":98321,
+"Amenities":"Free Wi-Fi , Breakfast , Swimming Pool , Gym , Bar ,  Free parking ,  Restaurant",
+"HotelImageURL":"https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=image1"
+
+}
+]
